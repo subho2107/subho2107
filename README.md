@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Tirthankar Bhattacharya  
 
 💼 **Fullstack Developer at Lynkit** (previously worked at Zeotap)  
-🌐 Experienced in building scalable web applications, analytics dashboards, and UI revamps for enterprise and government clients (India & Nepal).  
+🌐 Experienced in building scalable web applications.  
 
 ---
 
