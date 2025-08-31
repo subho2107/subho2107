@@ -8,7 +8,7 @@
 ## 🚀 Technical Skills  
 - **Languages:** HTML, CSS, JavaScript, TypeScript, Core Java  
 - **Frameworks & Libraries:** Angular, Next.js, React.js, Express.js, RxJS, Ramda, Jest, Tailwind CSS  
-- **Database:** PostgreSQL  
+- **Database:** MongoDB,PostgreSQL  
 - **Agile & Tools:** Git, GitHub, Postman, Confluence, Jira  
 
 ---
